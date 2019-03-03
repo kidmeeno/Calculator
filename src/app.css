@@ -1,0 +1,8 @@
+.cal_wrapper {
+  width: 70%;
+  margin: auto;
+}
+
+.row {
+  display: flex;
+}
